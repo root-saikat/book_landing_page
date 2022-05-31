@@ -1464,6 +1464,11 @@ color: rgba(255, 255, 255, 0.4);
 
 
 @media screen and (max-width:450px){
+    body{
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
     .container{
         /* min-width: 450px; */
     }
