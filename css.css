@@ -1216,10 +1216,6 @@ color: rgba(255, 255, 255, 0.4);
 
 @media screen and (max-width:850px) {
     
-    .container{
-        /* min-width: 450px; */
-        overflow-x: hidden !important;
-    }
     #header {
         height: 751px;
       }
