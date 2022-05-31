@@ -1464,6 +1464,9 @@ color: rgba(255, 255, 255, 0.4);
 
 
 @media screen and (max-width:450px){
+    *{
+        overflow-x:hidden ;
+    }
     body{
         margin: 0;
         padding: 0;
