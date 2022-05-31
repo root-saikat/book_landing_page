@@ -1221,7 +1221,10 @@ color: rgba(255, 255, 255, 0.4);
         overflow-x: hidden !important;
         width: 100vw;
     }
-    
+    .container{
+        /* min-width: 450px; */
+        overflow-x: hidden;
+    }
     #header {
         height: 751px;
       }
