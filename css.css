@@ -1218,7 +1218,7 @@ color: rgba(255, 255, 255, 0.4);
     
     .container{
         /* min-width: 450px; */
-        overflow-x: hidden;
+        overflow-x: hidden !important;
     }
     #header {
         height: 751px;
