@@ -951,7 +951,7 @@ color: #272D3E;
     content: url(/img/arrow-right.png);
 }
 .swiper-button-prev::after{
-    content: url(/img/arrow-left.png);
+    content: url(img/arrow-left.png);
 }
 
 .swiper-button-next, .swiper-rtl .swiper-button-prev {
