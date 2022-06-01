@@ -550,7 +550,7 @@ hr{
     width: auto;
   height: 579px;
   display: grid;
-  grid-template-columns: 13% 13% 13% 13% 13% 13% 13%; 
+  grid-template-columns: 37% 13% 13% 13% 18% 13% 13%; 
   overflow: hidden;
   position: relative;
 }
