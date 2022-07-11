@@ -1682,3 +1682,14 @@ gap: 20px;
 
 
 }
+
+
+@media screen and (min-width: 1700px){
+  .pic {
+    left: 52%;
+    top: 185px;
+  }
+  #four {
+    padding: 213px 200px;
+  }
+}
