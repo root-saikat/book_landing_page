@@ -85,7 +85,7 @@ body{
     font-size: 18px;
     line-height: 20.83px;
 }
-.middle ul li:hover{
+.middle ul li a:hover{
     color: #00BAC7;
 }
 
@@ -1194,7 +1194,7 @@ color: rgba(255, 255, 255, 0.6);
     color: #FFFFFFCC;
 }
 
-.inr-btm-2 ul a li{
+.inr-btm-2 ul li{
     list-style: none;
 }
 .inr-btm-2 ul{
