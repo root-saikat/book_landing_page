@@ -9,7 +9,9 @@ body{
     font-family: 'DM Sans';
     font-style: normal;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 .container{
     width: 100vw;
     height: 100vh;
